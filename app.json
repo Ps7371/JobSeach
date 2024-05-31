@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "icon":"./assets/images/appstore.png",
+    "name": "JobSearch",
+    "slug": "JobSearch",
+    "extra": {
+      "eas": {
+        "projectId": "952e2a3f-5c46-4c70-91eb-aafe41690045"
+      }
+    },
+    "android": {
+      "package": "com.ps007.JobSearch"
+    }
+  }
+}
